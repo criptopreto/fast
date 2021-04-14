@@ -1,0 +1,9 @@
+{
+  "name": "fast",
+  "version": "0.0.1",
+  "description": "Procesador de pago multiplataforma",
+  "main": "index.js",
+  "repository": "https://github.com/criptopreto/fast.git",
+  "author": "criptopreto",
+  "license": "MIT"
+}
